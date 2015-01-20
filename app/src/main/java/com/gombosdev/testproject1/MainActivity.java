@@ -11,6 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.os.Build;
 
+// trial1 comment
 
 public class MainActivity extends ActionBarActivity {
 
